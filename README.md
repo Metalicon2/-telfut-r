@@ -1,1 +1,1 @@
-# -telfut-r
+ÉTELFUTÁR
