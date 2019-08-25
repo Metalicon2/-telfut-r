@@ -16,7 +16,7 @@ $ npm start
 
 4. mysql szerver indítása szükséges
 
-5. server.js file-ban a user,password,database property-kre a megfelelő adatokat meg kell adni
+5. server.js file-ban a user,password,database property-kre a mysql-ben megfelelő adatokat meg kell adni
 
 let knex = require('knex')({
   client: 'mysql',
