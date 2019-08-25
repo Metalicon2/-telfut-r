@@ -12,7 +12,7 @@ $ npm start
 
 $ npm start
 
-$ 'Yes' (rá fog kérdezni a portváltásra a react-app az induláskor)
+(rá fog kérdezni a portváltásra a react-app az induláskor => Yes)
 
 4. mysql szerver indítása szükséges
 
